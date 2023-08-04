@@ -1,8 +1,8 @@
-# FORM-PAGE-MVC
-this project is based on .Net MVC (model, view, controller) created while developing new skills.
-And, a new framework is introduced known as Bootstrap in the project.
+# FORM-PAGE-.ASPNET-MVC
+This project is based on .AspNet MVC (model, view, controller) is a sample project while developing new skills.
 
-the critical point 
+
+Important points 
 is that you have to install some packages before use. 
 - Bootstrap
 - jQuery
